@@ -1,4 +1,4 @@
-#I need my glasses to see. View this video for info: https://www.youtube.com/watch?v=eZUa5k_VIZg,  short ans: n is prime if (n-1)! +1 = s where s is divisible by n.
+# A wilson number: https://www.youtube.com/watch?v=eZUa5k_VIZg
 import math
 import sys
 

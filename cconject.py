@@ -1,3 +1,5 @@
+#The Colatz Conjectur (https://en.wikipedia.org/wiki/Collatz_conjecture) states that all numbers will eventually reach 1 if when odd they have 3 multiplyed to them and one added and if they are even if they have 2 devided from them.
+
 import sys
 import timeit
 sys.setrecursionlimit(999999999)
